@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+chroma_db/
+data/*
+!data/.gitkeep
+.env
+.env.*
+!.env.example
+Thumbs.db
